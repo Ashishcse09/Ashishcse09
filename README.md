@@ -6,7 +6,7 @@
 Email Me 👉 ✉️ **akkeshri2005@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** my skills
-- 🌱 **I’m currently learning:** Dsa in C++ || web development.
+- 🌱 **I’m currently learning:** Data analytics|| Frontend development.
 - 👯 **I’m looking to collaborate on:**  
 - 🤔 **I’m looking for help with:** 
 - 💬 **Ask me about:** Collaboration, Tech Support
